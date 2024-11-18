@@ -601,7 +601,7 @@ input, textarea {
     
 
     .banner{
-        height: 80vh;
+        height: 60vh;
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -611,15 +611,15 @@ input, textarea {
     }
     /******** Zona uno ****************/
     .zona-uno{
-        height: 80vh;
-        padding: 0px 0px 0px 0px;
+        height: 60vh;
+        padding: 0px 200px 0px 0px;
         display: flex;
         justify-content: center;
         flex-direction: column;
     }
  
     .titulo-uno{
-        font-size: 40px;
+        font-size: 30px;
         font-weight: bold;
         margin-bottom: 20px;
         animation: slideDown 1.5s ease-in-out forwards;
